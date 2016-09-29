@@ -1,0 +1,32 @@
+{
+  "name": "jquery-viewport",
+  "version": "0.2.0",
+  "description": "Viewport - is simple jQuery plugin adds custom pseudo-selectors and handler for simple element position detection inside or outside of viewport.",
+  "main": "jquery.viewport.min.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edDimensi/jquery.viewport.git"
+  },
+  "keywords": [
+    "jquery",
+    "viewport",
+    "selector",
+    "element",
+    "traciking",
+    "position"
+  ],
+  "author": "Nikita Nafranets <eddimensi@gmail.com> (http://vk.com/dimensi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edDimensi/jquery.viewport/issues"
+  },
+  "homepage": "https://github.com/edDimensi/jquery.viewport#readme"
+}
